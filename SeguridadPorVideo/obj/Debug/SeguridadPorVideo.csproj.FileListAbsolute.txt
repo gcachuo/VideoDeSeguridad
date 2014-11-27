@@ -1,1 +1,2 @@
 C:\Users\Memo\Dropbox\Projects\SeguridadPorVideo\SeguridadPorVideo\bin\Debug\SeguridadPorVideo.exe.config
+C:\Users\Memo\Documents\GitHub\VideoDeSeguridad\SeguridadPorVideo\bin\Debug\SeguridadPorVideo.exe.config
